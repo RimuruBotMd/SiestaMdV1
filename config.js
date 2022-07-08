@@ -10,31 +10,31 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288902229533']
-global.pengguna = '𝐙𝐘𝐍𝐗'
+global.owner = ['6288980870067']
+global.pengguna = 'Sabil'
 global.premium = []
-global.author = '𝐙𝐘𝐍𝐗'
-global.pemilik = ['6288902229533'] 
-global.ownernomer = '6288902229533'
-global.ownername = '𝐙𝐘𝐍𝐗'
-global.botname = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.author = 'Sabil'
+global.pemilik = ['6288980870067'] 
+global.ownernomer = '6288980870067'
+global.ownername = 'SabilOfc'
+global.botname = 'Rimuru - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6288902229533'
-global.footer = '𝐙𝐗 - 𝐁𝐎𝐓'
+global.meki = '6288980870067'
+global.footer = 'Memek - Kontol'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = '𝐙𝐘𝐍𝐗' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.namalu = 'Sabil' //Ubah nama kalian buat nambahin di tqtq bot
+global.footer1 = 'Spam Gw entod Lu asu.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
 global.ig = 'https://instagram.com/zyvnxx__'
 global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
-global.dana = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.gopay = 'SEND KE QRIS : https://ibb.co/VvcDns2'
-global.wame = 'http://wa.me/6288902229533'
-global.email = 'helloiamzynxx@gmail.com'
+global.dana = 'NO DANA : 088980870067'
+global.gopay = 'NO GOPAY :088980870067'
+global.wame = 'http://wa.me/6288980870067'
+global.email = 'lordturu07@gmail.com'
 global.region = 'Indonesia'
-global.link = 'https://linktr.ee/zynxxstore'
+global.link = 'https://linktr.ee/sabilstore'
 global.sc = 'https://bit.ly'
 global.packname = '𝐙𝐘𝐍𝐗 // @𝐳𝐲𝐯𝐧𝐱𝐱__\n' 
 global.author = '' 
