@@ -21,14 +21,14 @@ global.botname = 'Rimuru - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
 global.meki = '6288980870067'
-global.footer = 'Memek - Kontol'
+global.footer = 'Rimuru - Md'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Sabil' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Spam Gw entod Lu asu.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://youtu.be/xvFZjo5PgG0' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/zyvnxx__'
-global.gc = 'https://chat.whatsapp.com/Hypz6V5T0rq60HS7ZnW0KN' //join ya
+global.yt = '' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://instagram.com/sabil__'
+global.gc = '' //join ya
 global.dana = 'NO DANA : 088980870067'
 global.gopay = 'NO GOPAY :088980870067'
 global.wame = 'http://wa.me/6288980870067'
@@ -36,7 +36,7 @@ global.email = 'lordturu07@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/sabilstore'
 global.sc = 'https://bit.ly'
-global.packname = '𝐙𝐘𝐍𝐗 // @𝐳𝐲𝐯𝐧𝐱𝐱__\n' 
+global.packname = 'RimuruMd // @sabofc' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -414,7 +414,7 @@ global.ccomannya = `
  » tupai
 `
 global.sewanya =
-'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2K_\n   _• Sewa Bot 1 Bulan : 5K_\n   _• Sewa Bot permanen : 10K_'
+'  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 2K_\n   _• Sewa Bot 1 Bulan : 3K_\n   _• Sewa Bot permanen : 5K_'
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
