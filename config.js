@@ -45,12 +45,12 @@ global.mess = {
     success: 'Done Your Request',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Lu Bukan Owner Gw ya?',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    error: 'Fitur sedang error!',
+    error: 'Oasu Error Cok!',
         endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
     example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
@@ -64,12 +64,12 @@ global.mess = {
     monayawal: 1000
 }
    global.rpg = {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
-   potionawal: 1
+   darahawal: 999999999,
+   besiawal: 9999999999,
+   goldawal: 9999999999,
+   emeraldawal: 999999999,
+   umpanawal: 999999999,
+   potionawal: 99999999
 }
 global.thumb = fs.readFileSync('./media/zaki.jpg')
 global.fakeImg = fs.readFileSync('./media/fake.jpg')
