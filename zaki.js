@@ -2368,7 +2368,7 @@ case 'webtonsearch': case 'webtoon':
 					})
 					break 
 					case 'hentai':
-					if (!isPremium) throw ('beli premuim dlu sana')
+					if (!isCreator) throw ('beli premuim dlu sana')
 					reply(mess.wait)
 					axios.get(`https://api.waifu.pics/nsfw/waifu`)
 					.then(({data}) => {
