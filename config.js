@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6282271391658']
-global.pengguna = 'WarenLonely'
+global.owner = ['6288980870067']
+global.pengguna = 'SabilOfc'
 global.premium = []
-global.author = 'WarenLonely'
-global.pemilik = ['6282271391658'] 
-global.ownernomer = '6282271391658'
+global.author = 'SabilOfc'
+global.pemilik = ['6288980870067'] 
 global.ownernomer = '6288980870067'
-global.ownername = 'WarenOfc'
+global.ownernomer = '6288980870067'
 global.ownername = 'SabilOfc'
-global.botname = 'Waren - Lonely'
+global.ownername = 'SabilOfc'
+global.botname = 'Siesta - Md'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6282271391658'
-global.footer = 'Waren - Lonely'
+global.meki = '6288980870067'
+global.footer = 'Siesta - Md'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'WarenOfc' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'SabilOfc' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Ga usah spam kontol.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.ig = 'https://instagram.com/sabil__'
-global.dana = 'NO Pulsa : 082310981551'
-global.gopay = 'NO Ovo :082310981551'
-global.wame = 'http://wa.me/6289687050529'
+global.dana = 'NO Pulsa : 088980870067'
+global.gopay = 'NO Ovo : 088980870067'
+global.wame = 'http://wa.me/6288980870067'
 global.email = 'lordturu07@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/sabilstore'
 global.sc = 'https://bit.ly'
-global.packname = 'WarenMd // @Warenofc' 
+global.packname = 'SiestaMd // @Sabilofc' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -64,12 +64,12 @@ global.mess = {
     monayawal: 1000
 }
    global.rpg = {
-   darahawal: 999999999,
-   besiawal: 9999999999,
-   goldawal: 9999999999,
-   emeraldawal: 999999999,
-   umpanawal: 999999999,
-   potionawal: 99999999
+   darahawal: 100,
+   besiawal: 100,
+   goldawal: 100,
+   emeraldawal: 100,
+   umpanawal: 100,
+   potionawal: 100,
 }
 global.thumb = fs.readFileSync('./media/zaki.jpg')
 global.fakeImg = fs.readFileSync('./media/fake.jpg')
