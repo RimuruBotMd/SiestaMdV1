@@ -10,33 +10,33 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6289687050529']
-global.pengguna = 'ZallGanteng'
+global.owner = ['6282271391658']
+global.pengguna = 'WarenLonely'
 global.premium = []
-global.author = 'ZallGanteng'
-global.pemilik = ['6289687050529'] 
-global.ownernomer = '6289687050529'
+global.author = 'WarenLonely'
+global.pemilik = ['6282271391658'] 
+global.ownernomer = '6282271391658'
 global.ownernomer = '6288980870067'
-global.ownername = 'ZallOfc'
+global.ownername = 'WarenOfc'
 global.ownername = 'SabilOfc'
-global.botname = 'Zall - MD'
+global.botname = 'Waren - Lonely'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6289687050529'
-global.footer = 'Zall - Md'
+global.meki = '6282271391658'
+global.footer = 'Waren - Lonely'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'ZallOfc' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'WarenOfc' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Ga usah spam kontol.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.ig = 'https://instagram.com/sabil__'
-global.dana = 'NO DANA : 089687050529'
-global.gopay = 'NO GOPAY :089687050529'
+global.dana = 'NO Pulsa : 082310981551'
+global.gopay = 'NO Ovo :082310981551'
 global.wame = 'http://wa.me/6289687050529'
 global.email = 'lordturu07@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/sabilstore'
 global.sc = 'https://bit.ly'
-global.packname = 'ZallMd // @Zallofc' 
+global.packname = 'WarenMd // @Warenofc' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
@@ -45,7 +45,7 @@ global.mess = {
     success: 'Done Your Request',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Lu Bukan Owner Gw ya?',
+    owner: 'Lu Sapa Kocak?',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
