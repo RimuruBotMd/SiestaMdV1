@@ -10,22 +10,22 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6288980870067']
-global.pengguna = 'Sabil'
+global.owner = ['6285656537062']
+global.pengguna = 'Razz'
 global.premium = []
-global.author = 'Sabil'
-global.pemilik = ['6288980870067'] 
+global.author = 'Razz'
+global.pemilik = ['6285656537062'] 
+global.ownernomer = '6285656537062'
 global.ownernomer = '6288980870067'
-global.ownernomer = '6283112831554'
+global.ownername = 'RazzOfc'
 global.ownername = 'SabilOfc'
-global.ownername = 'SiestaMD'
-global.botname = 'Siesta - MD'
+global.botname = 'Razz - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6288980870067'
-global.footer = 'Siesta - Md'
+global.meki = '6285656537062'
+global.footer = 'Razz - Md'
 //Isi Sesuai Namalu Buat Tambah Tqtq
-global.namalu = 'SabilOfc' //Ubah nama kalian buat nambahin di tqtq bot
+global.namalu = 'RazzOfc' //Ubah nama kalian buat nambahin di tqtq bot
 global.footer1 = 'Jangan Spam Yah Aku Cwe Loh.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
 global.ig = 'https://instagram.com/sabil__'
@@ -36,7 +36,7 @@ global.email = 'lordturu07@gmail.com'
 global.region = 'Indonesia'
 global.link = 'https://linktr.ee/sabilstore'
 global.sc = 'https://bit.ly'
-global.packname = 'SiestaMd // @sabilofc' 
+global.packname = 'RazzMd // @Razzofc' 
 global.author = '' 
 global.sessionName = 'session'
 global.prefa = ['#','!','/','']
