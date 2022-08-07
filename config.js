@@ -1,7 +1,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.thum = fs.readFileSync("./media/zaki.jpg")
+global.thum = fs.readFileSync("./media/Yoteno.jpg")
 
 global.autoReadAll = true 
 
@@ -18,6 +18,7 @@ global.pemilik = ['6283866366437']
 global.ownernomer = '6283866366437'
 global.ownernomer = '6283866366437'
 global.ownername = 'YotenoGhost'
+globsl.group = 'https://chat.whatsapp.com/EhqYEYKDBys9f5JcmTlQ7p'
 global.ownername = 'YotenoGhost'
 global.botname = 'Yoteno - Killer'
 global.tengah = "									"
