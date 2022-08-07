@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/d2hqN4D/051f190bb343.jpg" alt="Sebut Saja Jaki" width="300" />
 
-Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
+Kenapa? Kenapa? Hanya Karna Satu Wanita Diriku Menjadi Seperti Moster:)
 
 >
 >
@@ -24,14 +24,17 @@ Jika Dirimu Pernah Menyesalinya Lantas Kenapa Kamu Mengulanginnya
 
  ✨ My Waifu :
    
-  - Chitanda Eru    
+  - Chitanda Eru
+  - Siesta
+  - Rimuru
+  -Loli
 
 
 **Information:**
 
 - [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
 
-- [Donate](wa.me/6285878313791)
+- [Donate](wa.me/6288980870067)
 
 ## <div align="center">⚡ Information </div>
 
